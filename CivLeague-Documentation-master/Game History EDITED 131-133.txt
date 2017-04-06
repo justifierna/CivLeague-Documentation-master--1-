@@ -1421,7 +1421,6 @@ Take the Experience from the current level and add it from the previous level.*
 **6:** @iceman#0579  `Wins: 10 | Losses: 25 | Level: 3 | EXP: 13 | League EXP: 0`
 
 •|• **__Game 133__** •|•
-
 **1:** @Justifier#7095 `Wins: 65 | Losses: 5 | Level: 8 | EXP: 115`
 **2:** @Angry Scientist#6597 `Wins: 22 | Losses: 13 | Level: 5 | EXP: 38 | League EXP: 0`
 **3:** @raph#9365 `Wins: 4 | Losses: 4 | Level: 2 | EXP: 4`
