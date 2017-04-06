@@ -1,0 +1,314 @@
+#donations
+
+| **__Reasons for Donations__** |
+  *For players that also share our vision and goals for a successful **Civilization :civIcon: Community**, and want to share their support in how we manage the community. We are growing in numbers every day and are active in listening to our players requests and making sure that we stay on the growing path, so players have a better experience than what they are used to playing in public lobbies. Being a member in our community means that you will have a better gaming experience, and you may just appreciate our consistent work in keeping this community progressing towards better results. There is a lot of inexperienced members, who have grown with us and have improved their game play, just by being an active member in **CivPlayers**, so they may also wish to donate.*
+   *In addition to the growth of this community, we do love to hear feedback from members here in **CivPlayers**, and any ideas you bring to us in a DM, we will consider any changes that may be requested. Which is then discussed between the @admin/moderator who put a lot of logical thoughts behind the change, and will be considered. As we value our members and their opinions in the progress of this community. We will make every donation public, and their reason for it. You will also get the Valued Member Role which allows you into the **Admin Voice Channels** at any time you wish to do so. Looking into more ideas, and if anyone can suggest any, we would love to hear about them. Just shoot any concerns to an admin/moderator of the **CivPlayers League.** We do appreciate everyone who has joined and have also just been patient with us as we are all learning to become better.*
+   **
+
+**__Discord Moderators__**
+  *Admin that have done very awesome things for our community, and if you feel they deserve to be rewarded.*
+    •__**:copyright: • Song Adieu**__•
+      https://www.paypal.me/songadieu
+**__Game Developers/Modders__**
+  *If members enjoy playing mods over the core game mechanics and wish to give a donation to our Game Developers here in this community.*
+    •__**Hellblazer**__•
+
+/*  --  #introduction  --  */
+@Member
+**__Joining the Civilization :civIcon: League Community__**
+  *We value competitiveness, fairness, positive attitudes, with attention to teaching here. Cooperation is key, and would :heart: to play with players who want to be in a long-term invested community. Expect playing with players who encourage other players to not quit, as that is something we'd like to stray from. It creates an imbalance in the game, and can easily shift the winners which determines a different outcome. AI are geneerally aweful at the game, and are easily manipulated. Recieve a great deal of joy knowing your games will go on the record, wins/losses will help you determine how well you are doing in the league's standings. As well as learning what needs improving in your skills to be even better. We hope to share these qualities with each and every member of our community, as you will experience a better gaming format for Civilization :civIcon:*
+  *If there are any questions or main concerns regarding some goal achieving greatness, I am open to suggestions (Just click my name, and shoot me a DM @© • Song Adieu#6276 depending the logic that can be discussed when providing feedback for to a better community.*
+
+/*  --  #guidelines  --  */
+@Member
+| **__Guidelines Have been Updates as of April 2nd, 2017__** |
+  :civIconPurple: Please upvote once you have read through the Guidelines, and understand.
+    *If you have any changes or recommendations.. please provide any feedback to: @Moderator*
+
+**__Recent Changes__**
+  •*Updated the way you should set up the game! As the issues with Civ are becomming more, following that guide may help get the players to connect in the Staging Lobby of the Game. It will also help while in the game.*
+
+
+@Member
+•|• **__Discord Guidelines__** •|•
+*Discord is quite a bit to take in, and can be complicated to understand at first.
+We have a team of Admin/Moderators that will help guide the Success.
+Bots have been implemented to help with understanding your way around Discord.
+In case there is no current help at the time necessary. Please take full advantage of the Bots!
+You can learn how to set up Push to Talk, just by typing .helpPTT in the #text_lobby.*
+
+@Member
+  | **__Voice Lobbies__** |
+    •**Voice Activity (VA) Channels**
+      *Use voice without setting a keyboard function.*
+    •**Push to Talk (PTT) Channels**
+      *Set up a Push to Talk keyboard function, in order to use Voice Chat.
+      This is to prevent background noise blasting through your mic.
+      You can learn more on how to set that up in the #help channel.*
+
+@Member | @Admin *(Applies to Members or Higher Roles)*
+  | **__Text Lobbies__** |
+    #admin
+      *Admin channel that discusses majority changes and logical growth progress.*
+    #admin_proof
+      *Public channel focused on providing proof from any abusive player.
+      This way no unfair rulings can be made, and keep our group 100% transparent.*
+    #introduction
+      *Brief introduction that we are basing our values on this community.
+      It also provides as an Assistance channel for Members.*
+    #help
+      *Short tutorial guides on fixing or setting up certain game/discord features.*
+    #workshop_links
+      *CivLeague Community Mods that were created solely based for this Group.*
+    #news
+      *Any Community updates will be posted here, along with any Polls.*
+    #quests
+      *Quests available to try and achieve throughout the day | week | lifetime.
+      We will be doing 1 Daily Quest per Day | 1 Daily Quest per Week.
+      So always check out this channel for updated quests.
+      Taking a screenshot is quite mandatory to prove that you recieved this reward of EXP.*
+    #game_history
+      *Keeps track of Games History that were played in this Community, with only Members.
+      We also have a Leveling System that is determined by how many games is Played.
+      Which is also kept record of in this Channel. <3 As well as any Achieved Quests.*
+    #text_lobby
+      *When looking for games, you may use the appropriate commands to find players.
+      May also just be able to talk about things while waiting for a game.
+      May not advertise other types of Games. As we are a Civilization :civIcon: Community.
+      Public drama will not be welcome in chat, and may lead to #text_lobby chat ban.*
+
+@Member
+•|• **__Game Setup__** •|•
+  •**Private Game**
+  •**All Victory Conditions**
+    *Allowing anyone a Chance to Win*
+
+•|• **__Known Bugs with the Game__** •|•
+  •**Allow Duplicate Civs**
+    *Not that this causes any issues, just annoying when someone picks the same civ.
+    Can cause graphical bugs in the Staging Lobby.*
+  •**Disallow Allies Share Vision**
+  •**No Barbarians**
+  •**No Teams**
+
+@Member
+**(Optional)**
+•|• **__Over Powering Civilizations__** •|•
+*Early Warring Civs with massive bonuses, or just really OP civs that we give as an option for banning.*
+  •:australia:*Australia (John Curtin)*
+  •:macedon:*Macedon (Alexander)*
+  •:rome:*Rome (Trajan)*
+  •:scythia:*Scythia (Tomyris)*
+  •:sumeria: *Sumeria (Gilgamesh)*
+
+@Member
+**(Optional)**
+•|• **__In-Game OP Options__** •|•
+*May vote to ban/unban during the game setup, or before the choice becomes available.
+If unsure, just pause the game, and ask to find out. So there is no need for a reload.*
+  | **__Pantheons__** |
+    •**God of the Forge**
+      ***Currently Banned** only in Teamers, allowing all Team Members to benefit from this Pantheon.*
+  | **__Religion Beliefs__** |
+    •**Crusade**
+    •**Defender of the Faith**
+  | **__Great Persons__** |
+    •**Great General Stacking**
+      *Prevent 2 Great Generals to overlap unit(s) giving an additional move/strength bonus.*
+  | **__Support Units__** |
+    •**Siege Towers/Battering Rams**
+      *May only be used with Medieval Era Units or Earlier.*
+  | **__Nukes__** |
+    •**Atomic Era Nukes**
+      *Whether nukes from Atomic Era are Banned or not.*
+    •**Information Era Nukes**
+      *Whether nukes from Information Era are Banned or not.*
+
+@Member
+**__Total Experience Chart__**
+*Finding the Value for the Next Level Experience Requirement:
+Take the Experience from the current level and add it from the previous level.*
+    •Level 1    1
+    •Level 2    4
+    •Level 3    9
+    •Level 4    16
+    •Level 5    25
+    •Level 6    40
+    •Level 7    65
+    •Level 8    105
+    •Level 9    170
+    •Level 10  275
+
+@Member
+•|• **__In-Game Guidelines__** •|•
+*To experience a better gaming environment, each player is requested to have:
+  •**Mature Level of Understanding**
+    *Civilization is a long game, and you'll play many. Making friends is a better way to play.
+    When there is war, it's always a better game, to just have fun, even on the losing side.*
+  •**Respect**
+    *Have respect for players even if they are on the offensive of a situation.
+    If on the defensive and lose, just say well played, good job! No need to rage and be upset.
+    There is always another game* <3
+  •**Honesty**
+    *When dealing with League EXP as well as playing honestly.
+    We would expect all players to just play to their best abilities and understanding of the game.*
+  •**Cooperation**
+    *In situations where a player has abused any bans or just simply rehosting a game.
+    It just takes some cooperation and maturity to get the game back to how it should be played.
+    Reloading is a simple task and every player should have the most recent saves.
+    This can be modified in the Game Options.*
+***With these qualities, I guarantee each player will have the best Game ever Played.
+Regardless of the end result. You will learn at a better rate as well.
+Following these Game Guidelines will ensure Competiveness on another level.***
+
+@Member
+  | **__Trading__** |
+    •**No City Trading**
+      *It's a feature, that can be abused. Especially in Teamers.
+      You may trade back a city after it was once captured if it settle's a peace agreement.*
+    •**No GPT Trading**
+      *This is an exploit, that can be abused. The Gold never negates.
+      Teamers/FFA games may trade actual Gold, to help keep player(s) above 0.
+
+@Member
+  | **__Setting Pins__** |
+    •**During War**
+      *Do not place pins on enemy units with their attention to it.
+      It can be problematic when they try to select their units, and prevent them from fast clicking.
+      This is not a strategy, it is poor sportsman, and that is not what this community is about.*
+    •**Others**
+      *Please do not set pings publically for everyone to see, as it can cause a crash if set far away.*
+
+@Member
+  | **__Handling a Disconnected Player__** |
+  *If a player has dropped from the game, please allow a ten minute break to see if they rejoin.*
+    •**Returning Player within 10 Minutes**
+      *At least until there is a Pitboss option, I do recommend players just do a reload from a save.
+      AI can be quite a pain, and may tweak the game by giving buffs, or changing policies, gold.*
+    •**Non-Returning Player**
+      *Continue the game after the ten minutes have been achieved or Vote to scrap the game.
+      The reason a vote to scrap may be recommended, is because the AI are manipulated quite easily.
+      So if anyone feels that the game will become unfair, a vote may always take place. Unanimously.*
+
+@Member
+  | **__Handling a Reload__** |
+*For a few reasons, reloading the game is required.
+Whoever host's games frequently, should set their saves to every turn for the past 10 turns.
+Loading from an autosave is quite simple, just by following these steps:
+  **Multiplayer** > **Online** > **Load Game** > **Autosaves Check Box**
+Load the most recent save.*
+
+@Member
+•|• **__Quitter Role__**
+*Role applied to players who quit their previous game, unexpectedly without Communicating.
+Also can be applied when a player who has quit against the guidelines set in place.
+To help maintain a better playing environment, we ask that players not quit the game, unelss allowed.*
+  @Quitter
+  •**Removing the Role**
+    *To remove the role, just simply complete one game, and have that game submitted to the records.*
+
+@Member
+•|• **__Ways to Leave the Game__** •|•
+*For any reason you feel that you want to leave the game, there are available options to leave.
+This is to prevent a game being messed up by AI. Usually when AI take over, they aren't beneficial.
+They can easily be steam rolled by their nearest neighbor, changing the outcome of the game.
+The longer you stay in the game, the more potential you have to learning the game, rather than quit.*
+  | **__Losing 66% of Cities__** |
+    *If you have lost 66% of your total cities at one point. Also, if you have hardly any military to defend with.
+    As there is no way of defending, and just puts you in an irrelevant situation. You may bow out of the game.*
+  | **__Lost Capital__** |
+    *If you have lost your Capital and have no military to defend with. You may bow out of the game.*
+  | **__Irrelevancy Vote__** |
+    *If there is no way you impact the game, and players feel the same.
+    Then a vote is taken place on how irrelevant you are in the game.
+    This can take place after turn 85, and the vote has to be unanimously agreed upon.*
+  | **__Real Life Issues__** |
+    *If you have to leave the game for any reasons pertaining to real life, then that is fine.
+    All that is asked of you is that you talk to the players before leaving the game.
+    Afterall you joined this community to get away from players who quit a game because of the progress.*
+      ***If this seems to happen frequently, you may be monitored.***
+
+@Member
+•|• **__No Diplomacy__** •|•
+*Each Player in the Current Staging Lobby has to **Agree (+)** to these options before playing.
+As this method of playing is for skilled players, where cooperative mature players should enjoy.*
+  | **__Trading__** |
+    •**No Trading**
+      *The only trade allowed is a Peace Negotiation that can require the return of a city.*
+  | **__Trader Routes__** |
+    •**Sending to Civillizations**
+      *May not send any trader routes to any other Civilization.
+      May only send trader routes to City States or to Cities in your Empire.
+      Sending them to Teamers Allies is also Allowed.*
+  | **__Communication__** |
+    •**Voice|Game Chat**
+      *Everything you ask someone Private, it needs to be stated public, if pertaining to the game.
+      This goes for Peace Negotiations between the two players. State what was traded, if else.
+      After Declaring War, this has to be stated Publically to all the Players.*
+    •**No Collusion**
+      *When playing **No Diplomacy**, the method is intended only to help one learn the game better.
+      As you won't be relying on any assistance from any other player that can provide help.
+      So there __may not__ be requests or whispers made about assistance from another close civilization.
+      Please understand again that this is for Respective Players who understand the Courtesy for other Players.*
+
+@Member
+•|• **__League Experience__** •|•
+*Is gained and provides proof of your commitment to the CivLeague :civIcon:, and your contributions.
+You can gain League Experience by completing daily|weekly|lifetime quests, as well as recruiting.*
+  | **__Recruiting Players to CivLeague__** |
+    *There are plenty of ways to provide proof of recruiting a friend into our community.
+    You can simply have the referred player DM any @Admin | @Moderator through Discord.
+    To find an available Admin|Moderator online, just look at the Players List, top right corner of Discord.
+    Then we will provide that Screenshot to the #proof channel where it will be displayed publically.*
+      •**EXP: 10**
+        *Once their first completed Game has been submitted to the #game_history channel. **EXP is then Applied.***
+
+#news
+@Member 
+**__Discord Link__**
+discord.gg/zXPMfsN
+discord.gg/UFV4W4a
+
+@Member
+**__Server Update__**
+*Going to be getting to update with a new Connection Deal. Try to eliminate another Program.
+So the point is to eventually get rid of the Steam Group. As we will not need to be using it.
+There is a way to join games on players who just add their steam profile to their Discord Profile.
+So whoever says they are hosting, can just view their discord profile, and view the profile, to join Game.
+It's quite simple, and that's why I took the time to make an instruction guide.
+Keep in mind, that if your profile is set to private, then you may not be able to host, until that is fixed.
+You can learn how to use the .setSteam command and more in the #help channel, or by writing that command.
+You may also see a preview right here. Please Vote :agree: | :disagree: to let me know how you feel about this.*
+
+@everyone 
+**__POLL__**
+  **__When an AI Takes Over__**
+    •**While At War**
+      *If taking out the cities, they require a raze and only the capital may stand.*
+
+      **How would you guys enjoy this as something we can follow?!**
+      **Please Vote Green:agree: |or| Red :disagree:**
+
+@everyone 
+•|• **__CivLeague #guidelines Change POLL__** •|•
+*Voting Ends March 29th*
+
+**__Additional Bans Section__**
+*Currently all of these options are not banned in this League.
+If you wish to see them **default ban**, put :agree:
+If you wish to see the **guidelines to stay the same**, put :disagree:!!*
+
+•|• **__POLL__** •|•
+  *:agree: if you wish to see this in the guidelines as a potential abuse.
+  :disagree: if you wish to not see this banned.
+
+•|• **__Last Moving/First Moving (Concerns)__** •|•
+  *This game is known for the offset on turns, allowing some people to get first move, before they can even start.
+  These are a list of options to base your judgement and votes off of.*
+    | **__First Moving__**  |
+      •At times, the game disallows certain people to act as fast as other players, even though they may spam the clicks.
+      •This is all random, and sometimes is based by a better pc/connection. Still theoretical.
+    | **__Last Moving__** |
+      •Could be strategic, but also abusive.
+      •Most players avoid trying to attack first if they know they won't get the turn off.
+      •Keep in mind that other players may want to worry about city building things before the warring aspect.
